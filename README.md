@@ -15,7 +15,7 @@ Renting and sharing an apartment involves many fragmented tools, including map s
 Explore how an integrated mobile app could streamline the renter’s journey from apartment search to daily living.  
 
 **Solution:**  
-Home Hunt consolidates apartment discovery, touring, issue reporting, rent management, and roommate coordination into one app. The prototype was built in [**Balsamiq**](https://balsamiq.com/) to quickly test usability and design patterns before high-fidelity design.  
+Home Hunt consolidates apartment discovery, touring, issue reporting, rent management, and roommate coordination into one app. The prototype was built in **Balsamiq** to quickly test usability and design patterns before high-fidelity design.  
 
 ---
 
@@ -89,9 +89,10 @@ Inspired by:
 
 ## 📊 Reflection
 
-**Strengths:** 
+**Strengths**  
 Cohesive navigation, diverse interactive elements, realistic task flows.  
 
-**Next steps:** 
-Refine visual branding, add advanced filters, and improve communication features (notifications, confirmations).
+**Next Steps**  
+Refine visual branding, add advanced filters, and improve communication features (notifications, confirmations).  
+
 
