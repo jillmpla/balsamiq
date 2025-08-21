@@ -1,4 +1,4 @@
-# 🏠 Home Hunt – Balsamiq Prototype
+# 🏠 Home Hunt - Balsamiq Prototype
 
 Home Hunt is an apartment rental app prototype designed in [**Balsamiq**](https://balsamiq.com/). It helps users search for apartments, view details and 3D walkthroughs, report maintenance issues, and manage shared living with roommates.  
 
