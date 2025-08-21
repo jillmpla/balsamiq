@@ -1,7 +1,6 @@
 # 🏠 Home Hunt – Balsamiq Prototype
 
-Home Hunt is an apartment rental app prototype designed in **Balsamiq**.  
-It helps users search for apartments, view details and 3D walkthroughs, report maintenance issues, and manage shared living with roommates.  
+Home Hunt is an apartment rental app prototype designed in [**Balsamiq**](https://balsamiq.com/). It helps users search for apartments, view details and 3D walkthroughs, report maintenance issues, and manage shared living with roommates.  
 
 This project was approached as a **full UX case study**, from critique and concept to prototyping, user testing, and iteration.  
 
@@ -10,11 +9,13 @@ This project was approached as a **full UX case study**, from critique and conce
 ## 📖 Case Study Overview
 
 **Inspiration & Problem Space**  
-Renting and sharing an apartment involves many fragmented tools — map search apps, separate payment portals, email chains for maintenance, and shared calendars for roommates. This creates friction and wasted time.  
-**Goal:** Explore how an integrated mobile app could streamline the renter’s journey from apartment search to daily living.
+Renting and sharing an apartment involves many fragmented tools, including map search apps, separate payment portals, email chains for maintenance, and shared calendars for roommates. This creates friction and wasted time.  
+
+**Goal** 
+Explore how an integrated mobile app could streamline the renter’s journey from apartment search to daily living.
 
 **Solution**  
-Home Hunt consolidates apartment discovery, touring, issue reporting, rent management, and roommate coordination into one app. The prototype was built in **Balsamiq** to quickly test usability and design patterns before high-fidelity design.
+Home Hunt consolidates apartment discovery, touring, issue reporting, rent management, and roommate coordination into one app. The prototype was built in [**Balsamiq**](https://balsamiq.com/) to quickly test usability and design patterns before high-fidelity design.
 
 ---
 
@@ -54,7 +55,7 @@ Home Hunt consolidates apartment discovery, touring, issue reporting, rent manag
 
 ## 👥 User Testing & Findings
 
-We conducted in-person usability testing with four participants.  
+We conducted in-person usability testing with multiple participants.  
 
 **Positive feedback:**  
 - Clear filtering and map visualization  
@@ -65,7 +66,7 @@ We conducted in-person usability testing with four participants.
 - Lack of “back”/“cancel” buttons led to navigation confusion  
 - Uploading images for maintenance wasn’t intuitive  
 - Calendar notes and chores lacked clarity in presentation  
-- Missing trust features (e.g., ratings/reviews for apartments)  
+- Missing trust features (ratings/reviews for apartments)  
 
 **Lessons learned:**  
 - Always provide visible “escape routes” (back/cancel)  
@@ -88,22 +89,6 @@ Inspired by:
 
 ## 📊 Reflection
 
-This project demonstrated the value of **low-fidelity prototyping with Balsamiq** to validate ideas early.  
-Through user testing, I learned how even simple missing elements (back buttons, clarity in labels) can create usability friction.  
-
 **Strengths:** Cohesive navigation, diverse interactive elements, realistic task flows.  
-**Next steps:** Refine visual branding, add advanced filters, and improve communication features (notifications, confirmations).  
-
----
-
-## 📂 Repository Contents
-
-- `wireframes/` → static sketches and early concepts  
-- `prototype/` → interactive Balsamiq prototype files  
-- `usability_reports/` → raw notes, transcripts, and summaries from user studies  
-- `final_presentation/` → slides summarizing design process and outcomes  
-
----
-
-> 📌 This prototype and study illustrate my UX process: defining problems, designing interactive solutions, testing with users, and iterating based on feedback.
+**Next steps:** Refine visual branding, add advanced filters, and improve communication features (notifications, confirmations).
 
