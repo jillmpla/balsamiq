@@ -89,10 +89,10 @@ Inspired by:
 
 ## 📊 Reflection
 
-**Strengths**  
+**Strengths:**  
 Cohesive navigation, diverse interactive elements, realistic task flows.  
 
-**Next Steps**  
+**Next Steps:**  
 Refine visual branding, add advanced filters, and improve communication features (notifications, confirmations).  
 
 ---
