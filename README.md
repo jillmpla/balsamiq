@@ -95,4 +95,12 @@ Cohesive navigation, diverse interactive elements, realistic task flows.
 **Next Steps**  
 Refine visual branding, add advanced filters, and improve communication features (notifications, confirmations).  
 
+---
+
+## 📂 Repository Contents  
+
+- **balsamiq_prototype_report.pdf** — Full case study report, including task flows, wireframes, design patterns, user testing, and lessons learned.  
+- **balsamiq_prototype.pdf** — Interactive Balsamiq prototype file.  
+
+
 
