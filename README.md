@@ -99,8 +99,8 @@ Refine visual branding, add advanced filters, and improve communication features
 
 ## 📂 Repository Contents  
 
-- **balsamiq_prototype_report.pdf** — Full case study report, including task flows, wireframes, design patterns, user testing, and lessons learned.  
-- **balsamiq_prototype.pdf** — Interactive Balsamiq prototype file.  
+- **balsamiq_prototype_report.pdf** - Case study report, including task flows, wireframes, design patterns, user testing, and lessons learned.  
+- **balsamiq_prototype.pdf** - Interactive Balsamiq prototype file.  
 
 
 
