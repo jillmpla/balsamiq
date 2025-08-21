@@ -11,11 +11,11 @@ This project was approached as a **full UX case study**, from critique and conce
 **Inspiration & Problem Space**  
 Renting and sharing an apartment involves many fragmented tools, including map search apps, separate payment portals, email chains for maintenance, and shared calendars for roommates. This creates friction and wasted time.  
 
-**Goal** 
-Explore how an integrated mobile app could streamline the renter’s journey from apartment search to daily living.
+**Goal**  
+Explore how an integrated mobile app could streamline the renter’s journey from apartment search to daily living.  
 
 **Solution**  
-Home Hunt consolidates apartment discovery, touring, issue reporting, rent management, and roommate coordination into one app. The prototype was built in [**Balsamiq**](https://balsamiq.com/) to quickly test usability and design patterns before high-fidelity design.
+Home Hunt consolidates apartment discovery, touring, issue reporting, rent management, and roommate coordination into one app. The prototype was built in [**Balsamiq**](https://balsamiq.com/) to quickly test usability and design patterns before high-fidelity design.  
 
 ---
 
@@ -90,5 +90,6 @@ Inspired by:
 ## 📊 Reflection
 
 **Strengths:** Cohesive navigation, diverse interactive elements, realistic task flows.  
+
 **Next steps:** Refine visual branding, add advanced filters, and improve communication features (notifications, confirmations).
 
